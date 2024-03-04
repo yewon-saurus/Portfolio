@@ -1,0 +1,254 @@
+{
+    "categorical": {
+        "international": [
+            {
+                "name": "제2회 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @청주",
+                "period": "2023. 5. 13 ~ 14.",
+                "role": "오픈소스 프로젝트 ‘Githru-vscode-ext’ 참가 멘티",
+                "detail": "선배 개발자와 함께 2일간 해커톤 형식으로 오픈소스 프로젝트에 함께 ‘컨트리뷰톤’하며 참여, 오픈, 공유, 협업하는 오픈소스 문화를 직접 경험",
+                "evidence": "",
+                "category": "대외활동"
+            },
+            {
+                "name": "네이버 커넥트재단 소프트웨어야 놀자",
+                "period": "2022. 5. 12. ~ 2022. 12. 26.",
+                "role": "대학생 멘토",
+                "detail": "지역의 초 · 중학생들에게 AI와 DATA 시대에 필요한 지식과 경험을 나누는 멘토링 프로그램 진행",
+                "evidence": "",
+                "category": "대외활동"
+            },
+            {
+                "name": "SW중심대학사업단 2022학년도 동계 현장실습(인턴십)",
+                "period": "2022. 1. 19. ~ 2. 18.",
+                "role": "KISTI(한국과학기술정보연구원) 과학데이터교육센터 현장실습생",
+                "detail": "과학데이터교육(데이터 과학, 빅데이터, 컴퓨팅, 인공지능 등) 관련 운영 및 관리 보조",
+                "evidence": "",
+                "category": "대외활동"
+            }
+        ],
+        "completion-of-training": [
+            {
+                "name": "KT AIVLE School 4기",
+                "period": "2023. 8. 8. ~ 2024. 1. 25.",
+                "role": "AI Track 에이블러",
+                "detail": "KT의 ‘AI 인재 양성 경험과 노하우’를 외부로 확장한 기업 실무형 인재 양성 K-Digital Training 교육 프로그램",
+                "evidence": "",
+                "category": "교육수료"
+            },
+            {
+                "name": "SW중심대학사업단 2021년 여름방학 SW개발자과정 몰입교육",
+                "period": "2021. 7. 26. ~ 8. 20.",
+                "role": "교육생",
+                "detail": "Front-End 및 Back-End 개발 역량 강화를 목적으로 한 학생들의 기본 기술 및 현업 활용 기술 교육",
+                "evidence": "",
+                "category": "교육수료"
+            }
+        ],
+        "club": [
+            {
+                "name": "동아리 ‘TUX’ 홈페이지 개발",
+                "period": "2022. 9. ~ 2023. 4.",
+                "role": "Front-End 개발 팀장",
+                "detail": "본인 소속 동아리 ‘TUX’의 홈페이지 개발 및 React 스터디 진행",
+                "evidence": "",
+                "category": "동아리"
+            },
+            {
+                "name": "동아리 ‘Nest.net’",
+                "period": "2021. 3. ~ 2022. 8. 21.",
+                "role": "부원",
+                "detail": "알고리즘, 웹(HTML, CSS, JavaScript) 스터디 및 취업 세미나",
+                "evidence": "",
+                "category": "동아리"
+            },
+            {
+                "name": "한국항공소년단 충북연맹 동아리멘토링 프로그램",
+                "period": "2021. 3. ~ 7.",
+                "role": "대학생 멘토",
+                "detail": "지역 초중고 학교와 지역 대학 간 연계 동아리 멘토링 프로그램",
+                "evidence": "",
+                "category": "동아리"
+            }
+        ],
+        "awarded": [
+            {
+                "name": "KT AIVLE School Big Project",
+                "period": "2023. 8. 8. ~ 2024. 1. 25.",
+                "role": "우수상",
+                "detail": "‘AI 기반 서비스 개발’을 주제로 진행하는 프로젝트에 Front-End 개발팀장으로 참여해 우수한 성적을 거두어 입상",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "충북대학교 전자정보대학 2023년도 캡스톤디자인 전시회",
+                "period": "2022. 9. 2. ~ 2023. 11. 3.",
+                "role": "최우수상",
+                "detail": "평소 습득한 전공분야에 대한 학습을 기초로 캡스톤디자인 전시회에 우수한 작품을 출품",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "iRE-Asia SP!ED 2022",
+                "period": "2022. 8. 19. ~ 25.",
+                "role": "Silver Award",
+                "detail": "한, 중, 일 대학생으로 이루어진 각 팀에서 브레인스토밍, 작품 프로토타입 제작(구현) 및 발표",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "AKCSE ICCAS 2022",
+                "period": "2022. 6. 21. ~ 7. 10.",
+                "role": "Silver Award",
+                "detail": "한국 · 캐나다 대학생으로 이루어진 각 팀에서, Future 2030을 주제로 지능형 기능성 게임 프로젝트 진행",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "2022년 1학기 교과기반 프로젝트 영어 발표회",
+                "period": "2022. 3. 2. ~ 6. 30.",
+                "role": "장려상",
+                "detail": "교과목 ‘오픈소스 전문 프로젝트’의 성과물 영어 발표회에서 장려상 수상",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "2021년 2학기 교과기반 프로젝트 영어 발표회",
+                "period": "2021. 9. 3. ~ 12. 23.",
+                "role": "우수상",
+                "detail": "교과목 ‘오픈소스 개발 프로젝트’의 성과물 영어 발표회에서 우수상 수상",
+                "evidence": "",
+                "category": "수상내역"
+            },
+            {
+                "name": "iRE-Asia CEDC 2021",
+                "period": "2021. 12. 18. ~ 19.",
+                "role": "Bronze Award",
+                "detail": "한, 중, 일 각국의 대학에서 참여한 글로벌 캡스톤 디자인",
+                "evidence": "",
+                "category": "수상내역"
+            }
+        ]
+    },
+    "chronological": [
+        {
+            "name": "KT AIVLE School Big Project",
+            "period": "2023. 8. 8. ~ 2024. 1. 25.",
+            "role": "우수상",
+            "detail": "‘AI 기반 서비스 개발’을 주제로 진행하는 프로젝트에 Front-End 개발팀장으로 참여해 우수한 성적을 거두어 입상",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "KT AIVLE School 4기",
+            "period": "2023. 8. 8. ~ 2024. 1. 25.",
+            "role": "AI Track 에이블러",
+            "detail": "KT의 ‘AI 인재 양성 경험과 노하우’를 외부로 확장한 기업 실무형 인재 양성 K-Digital Training 교육 프로그램",
+            "evidence": "",
+            "category": "교육수료"
+        },
+        {
+            "name": "충북대학교 전자정보대학 2023년도 캡스톤디자인 전시회",
+            "period": "2022. 9. 2. ~ 2023. 11. 3.",
+            "role": "최우수상",
+            "detail": "평소 습득한 전공분야에 대한 학습을 기초로 캡스톤디자인 전시회에 우수한 작품을 출품",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "제2회 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @청주",
+            "period": "2023. 5. 13 ~ 14.",
+            "role": "오픈소스 프로젝트 ‘Githru-vscode-ext’ 참가 멘티",
+            "detail": "선배 개발자와 함께 2일간 해커톤 형식으로 오픈소스 프로젝트에 함께 ‘컨트리뷰톤’하며 참여, 오픈, 공유, 협업하는 오픈소스 문화를 직접 경험",
+            "evidence": "",
+            "category": "대외활동"
+        },
+        {
+            "name": "동아리 ‘TUX’ 홈페이지 개발",
+            "period": "2022. 9. ~ 2023. 4.",
+            "role": "Front-End 개발 팀장",
+            "detail": "본인 소속 동아리 ‘TUX’의 홈페이지 개발 및 React 스터디 진행",
+            "evidence": "",
+            "category": "동아리"
+        },
+        {
+            "name": "네이버 커넥트재단 소프트웨어야 놀자",
+            "period": "2022. 5. 12. ~ 2022. 12. 26.",
+            "role": "대학생 멘토",
+            "detail": "지역의 초 · 중학생들에게 AI와 DATA 시대에 필요한 지식과 경험을 나누는 멘토링 프로그램 진행",
+            "evidence": "",
+            "category": "대외활동"
+        },
+        {
+            "name": "iRE-Asia SP!ED 2022",
+            "period": "2022. 8. 19. ~ 25.",
+            "role": "Silver Award",
+            "detail": "한, 중, 일 대학생으로 이루어진 각 팀에서 브레인스토밍, 작품 프로토타입 제작(구현) 및 발표",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "AKCSE ICCAS 2022",
+            "period": "2022. 6. 21. ~ 7. 10.",
+            "role": "Silver Award",
+            "detail": "한국 · 캐나다 대학생으로 이루어진 각 팀에서, Future 2030을 주제로 지능형 기능성 게임 프로젝트 진행",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "SW중심대학사업단 2022학년도 동계 현장실습(인턴십)",
+            "period": "2022. 1. 19. ~ 2. 18.",
+            "role": "KISTI(한국과학기술정보연구원) 과학데이터교육센터 현장실습생",
+            "detail": "과학데이터교육(데이터 과학, 빅데이터, 컴퓨팅, 인공지능 등) 관련 운영 및 관리 보조",
+            "evidence": "",
+            "category": "대외활동"
+        },
+        {
+            "name": "2022년 1학기 교과기반 프로젝트 영어 발표회",
+            "period": "2022. 3. 2. ~ 6. 30.",
+            "role": "장려상",
+            "detail": "교과목 ‘오픈소스 전문 프로젝트’의 성과물 영어 발표회에서 장려상 수상",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "2021년 2학기 교과기반 프로젝트 영어 발표회",
+            "period": "2021. 9. 3. ~ 12. 23.",
+            "role": "우수상",
+            "detail": "교과목 ‘오픈소스 개발 프로젝트’의 성과물 영어 발표회에서 우수상 수상",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "iRE-Asia CEDC 2021",
+            "period": "2021. 12. 18. ~ 19.",
+            "role": "Bronze Award",
+            "detail": "한, 중, 일 각국의 대학에서 참여한 글로벌 캡스톤 디자인",
+            "evidence": "",
+            "category": "수상내역"
+        },
+        {
+            "name": "동아리 ‘Nest.net’",
+            "period": "2021. 3. ~ 2022. 8. 21.",
+            "role": "부원",
+            "detail": "알고리즘, 웹(HTML, CSS, JavaScript) 스터디 및 취업 세미나",
+            "evidence": "",
+            "category": "동아리"
+        },
+        {
+            "name": "SW중심대학사업단 2021년 여름방학 SW개발자과정 몰입교육",
+            "period": "2021. 7. 26. ~ 8. 20.",
+            "role": "교육생",
+            "detail": "Front-End 및 Back-End 개발 역량 강화를 목적으로 한 학생들의 기본 기술 및 현업 활용 기술 교육",
+            "evidence": "",
+            "category": "교육수료"
+        },
+        {
+            "name": "한국항공소년단 충북연맹 동아리멘토링 프로그램",
+            "period": "2021. 3. ~ 7.",
+            "role": "대학생 멘토",
+            "detail": "지역 초중고 학교와 지역 대학 간 연계 동아리 멘토링 프로그램",
+            "evidence": "",
+            "category": "동아리"
+        }
+    ]
+}

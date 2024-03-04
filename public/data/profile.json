@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "name": {
+            "korean": "김예원(金藝媛)",
+            "english": "Yewon Kim"
+        },
+        "birth": "2001년 8월 4일 (양력)"
+    },
+    "contact-info": {
+        "email": "ywwwon01@gamil.com",
+        "GitHub": "https://github.com/yewon-saurus",
+        "blog": "https://velog.io/@yewon0804"
+    },
+    "academic-info": {
+        "college": {
+            "year-and-month-of-graduation": "2024. 2.",
+            "name": "충북대학교",
+            "major": "소프트웨어학과"
+        }
+    },
+    "qualifications": [
+        {
+            "name": "정보처리기사",
+            "code": "23201120269C",
+            "agency": "한국산업인력공단",
+            "date": "2023. 6. 9."
+        },
+        {
+            "name": "SQLD(SQL개발자)",
+            "code": "SQLD-047009835",
+            "agency": "한국데이터산업진흥원",
+            "date": "2022. 12. 2."
+        },
+        {
+            "name": "AICE(ASSOCIATE)",
+            "code": "AICE_20231103_A00182",
+            "agency": "(주)케이티, (주)한국경제신문",
+            "date": "2023. 11. 3."
+        }
+    ]
+}
